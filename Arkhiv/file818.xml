@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <title auto="true" type="str" verify="true"><![CDATA[Токаев победил на выборах президента Казахстана с 70,8% голосами]]></title>
+  <category auto="true" type="str" verify="true"><![CDATA[В мире/Политика]]></category>
+  <source auto="true" type="str" verify="true"><![CDATA[https://www.infox.ru//news/251/world/politics/218711-tokaev-pobedil-na-vyborah-prezidenta-kazahstana-s-708-golosami]]></source>
+  <text auto="true" type="str" verify="true"><![CDATA[
+ЦИК Казахстана объявил предварительные результаты голосования на президентских выборах, состоявшихся в воскресенье. 
+Действующий президент Казахстана Касым-Жомарт Токаев одерживает победу с результатом 70,76% голосов.
+Такие цифры в понедельник утром озвучил заместитель председателя Центральной избирательной комиссии республики Константин Петров. «Токаев Касым-Жомарт Кемелевич - 6 504 054 голоса или 70,76% голосов избирателей», - сказал Петров во время брифинга.
+Второе место занимает Амиржан Косанов. Он заручился поддержкой 16,02% избирателей.
+Явка на выборах составила 77,4%.
+
+<script type="text/javascript">
+    if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 4294967295) + 1; }
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "VI-148264-0",
+                renderTo: 'inpage_VI-148264-0-539298168',
+                inpage: {
+                    slide: true,
+                    visibleAfterInit: false,
+                    adFoxUrl: "//ads.adfox.ru/5196/getCode?pp=h&ps=tdq&p2=ffeb&puid1=&fmt=1&dl={REFERER}&pr="+pr,
+                    insertAfter: 'undefined',
+                    insertPosition: '0'
+                },
+            }, function callback (params) {
+                    var id = params.id;
+                        if (params instanceof Error) {
+                            if (id === 53 || id === 51 || id === 0) {                           
+                                var d = document;
+                                    t = d.getElementsByTagName("script")[0];
+                                    s = d.createElement("script");
+                                    s.type = "text/javascript";
+                                    s.src = "//p1.ntvk1.ru/nv.js";
+                                    s.async = true;
+                                    t.parentNode.insertBefore(s, t);
+                                var ntvk_id = 'LsoVUmHgcr';                 
+                                var adfox_id = 'alter_inpage_LsoVUmHgcr'; 
+                                var ntvk = document.createElement('ntvk');
+                                    ntvk.id = ntvk_id;
+                                var target = document.getElementById(adfox_id);
+                                    target.appendChild(ntvk);
+                        }
+                    }
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+Ранее результаты exit poll показали, что Токаев набирает более 70% голосов. Ознакомившись с результатом, Токаев по видеоконференцсвязи поздравил однопартийцев со своей победой. Он констатировал, что выборы прошли спокойно, без эксцессов. Предвыборная кампания получилась цивилизованной и конструктивной. Была конкуренция предвыборных программ, а все участники гонки вели себя корректно, воздерживаясь «от огульной критики в адрес друг друга».
+Токаев заявил, что теперь его команда начнет работать на будущее Казахстана, сохраняя заделы предыдущего руководителя республики Нурсултана Назарбаева. По его словам, Елбасы (лидер нации) за годы правления построил сильное, многонациональное государство, которое занимает видное место на международной арене.
+Задача нового руководства, сохранить достижения и продолжать двигаться по «пути прогресса и созидания».
+«Безошибочный выбор»: Назарбаев призвал Казахстан голосовать за Токаева
+Нурсултан Назарбаев досрочно ушел в отставку 20 марта. Исполняющим обязанности президента стал Токаев, до этого работавший на посту председателя верхней палаты парламента. Назарбаев рекомендовал преемника, как верного своего соратника и опытного управленца, который помогал строить Казахстан после обретения независимости.
+Через три недели после вступления в должность Токаев назначил внеочередные выборы.
+На президентских выборах участвовали семь кандидатов. Токаев выдвигался от партии Назарбаева Nur Otan.
+Для победы в первом туре было достаточно набрать более 50% голосов. Порога явки в Казахстане нет, поэтому выборы будут признаны состоявшимися в любом случае.
+]]></text>
+</doc>
